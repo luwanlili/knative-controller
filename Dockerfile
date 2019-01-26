@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/controller-43f0364ab2f6dab17267e80a1f6a4adc@sha256:eb257b8e80b32fe42f3eac714455baa9465d585f5bb571f2def54261ac44e0ff
